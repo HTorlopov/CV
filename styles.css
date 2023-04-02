@@ -1,0 +1,135 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+    display:flex;
+    width: 1200px;
+    margin: 0px auto;
+    background-color: #EFEFEF;
+}
+.aside {
+    background-color: #7A93B8;
+    color: ghostwhite;
+    padding-top: 40px;
+    width: 370px;
+}
+.photo {
+    width: 320px;
+    height: 350px;
+    margin: 0px 25px;
+}
+.aside-contact {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-left: 30px;
+    margin-bottom: 8px;
+}
+.contact {
+    margin-bottom: 40px;
+}
+.tm {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-left: 30px;
+}
+.t-m {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.li-aside {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-left: 4px;
+}
+.skill {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.about {
+   margin: 60px 290px 22px 80px;
+}
+h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+}
+.about-text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #908787;
+}
+.work {
+    margin-left: 80px;
+    margin-bottom: 51px;
+}
+.name-work {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+.text-work {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+}
+.education {
+   margin-left: 80px;
+   margin-bottom: 25px;
+}
+.build-education {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #7A93B8;
+}
+.name-education {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.text-educatiion {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #918787;
+}
+.certificate {
+    margin-left: 80px;
+}
+.name-cert {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+.text-cert {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
